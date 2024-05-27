@@ -38,3 +38,6 @@ print("Mean Squared Error:", mse)
 example_house = np.array([[1100, 2]])  # Example feature values for a new house
 predicted_price = model.predict(example_house)
 print("Predicted Price for the Example House:", predicted_price)
+output:
+Mean Squared Error: 128444444.444444
+Predicted Price for the Example House: [327333.33333333]
